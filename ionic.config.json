@@ -1,0 +1,7 @@
+{
+  "name": "fw-react-menu-ex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
